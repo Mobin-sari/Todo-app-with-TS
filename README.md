@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mobin sari</h1>
-<h3 align="center">I am Mobin, a computer engineering student. I am studying in Tehran (Iran). And I'm interested in front-end and I'm always learning and coding to expand my knowledge.</h3>
+<h3 align="center">Todo App with typescript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobin-sari&label=Profile%20views&color=0e75b6&style=flat" alt="mobin-sari" /> </p>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mobin-sari" alt="mobin-sari" /></a> </p>
+
+- 🌱 I’m currently learning **Ts, redux, Graph QL.**
 
 - 💬 Ask me about **react, javascript, typescript.**
 
